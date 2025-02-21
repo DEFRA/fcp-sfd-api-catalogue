@@ -3,7 +3,7 @@ This is a catalogue of APIs that are available to use within the FCP Single Fron
 
 ## Viewing the guide
 
-The guide is best viewed in GitHub pages at [https://defra.github.io/ai-data-development-standards](https://defra.github.io/ai-data-development-standards/)
+The guide is best viewed in GitHub pages at [https://defra.github.io/fcp-sfd-api-catalogue/](https://defra.github.io/fcp-sfd-api-catalogue/)
 
 ## Updating the guide
 
