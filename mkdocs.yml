@@ -2,7 +2,6 @@ site_name: FCP Single Front Door (SFD) API Catalogue
 site_url: https://defra.github.io/fcp-sfd-api-catalogue/
 theme:
   name: material
-  logo: images/favicon.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
