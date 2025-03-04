@@ -33,3 +33,11 @@ markdown_extensions:
   - pymdownx.superfences
 nav:
   - Home: index.md
+  - Integrations:
+    - SFD Comms:
+      - Overview: fcp-fd-comms/index.md
+      - V3 API: fcp-fd-comms/v3.md
+  - Tags: tags.md
+plugins:
+  - tags:
+      tags_file: tags.md
